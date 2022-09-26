@@ -2,7 +2,8 @@
 **`Software and backend developer (or trying to become one)`**
 
 <p align="left">
-I'm a neophyte developer and average <s>C++</s> pain enjoyer and trying to become some kind of cyber-expert. I'm learning Python and C++ in order to have as much tools at my belt as Mr. Sin- I mean as any plumber has.
+I'm a neophyte developer and average <b>Bash</b> pain enjoyer and trying to become some kind of cyber-expert.<br>
+I'm learning Python and C++ in order to have as much tools at my belt as Mr. Sin- I mean as any plumber has.
 </p>
 <!-- ### Hi there 👋 -->
 
