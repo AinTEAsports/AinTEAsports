@@ -9,8 +9,16 @@ Also I like doing shitty stuff that half-works with anything I see probably beca
 <br>
 One day some wise person said: <b>Illegal ? Illegal only if police there. If police not there, everything legal.</b>
 </p>
-<!-- ### Hi there 👋 -->
 
+
+<br>
+
+Technologies that I use to make things:
+<img src="./logos/python.png">
+<img src="./logos/cpp.png">
+<img src="./logos/bash.png">
+<img src="./logos/tux.png">
+<br>
 
 
 - 🔭 I’m currently working on <a href="https://github.com/acth2/CydraProject">Cydra OS</a>, an open source Linux distribution
