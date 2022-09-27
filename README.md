@@ -13,8 +13,7 @@ One day some wise person said: <b>Illegal ? Illegal only if police there. If pol
 
 
 
-- 🔭 I’m currently working on <a href="https://github.com/acth2/CydraProject">Cydra OS:w
-- </a>
+- 🔭 I’m currently working on <a href="https://github.com/acth2/CydraProject">Cydra OS</a>
 - 🌱 I’m currently learning C++ and more precisely how to use <a href="https://github.com/drogonframework/">Drogon</a> framework
 - 📫 How to reach me: `AinTea#0519` on Discord
 - 😄 Pronouns: `Lin` / `ux` because long live to our king `Linus Torvalds`
