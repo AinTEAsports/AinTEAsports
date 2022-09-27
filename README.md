@@ -15,10 +15,10 @@ One day some wise person said: <b>Illegal ? Illegal only if police there. If pol
 
 Technologies that I use to make things:
 
-<img src="./logos/python.png" alt="drawing" align="left" width="30" style="padding-right:60px;" />
-<img src="./logos/cpp.png" alt="drawing" align="left" width="30" style="padding-right:60px;" />
-<img src="./logos/bash.png" align="left" alt="drawing" width="30" style="padding-right:60px;" />
-<img src="./logos/tux.png" align="left" alt="drawing" width="30" style="padding-right:60px;" />
+<img src="./logos/python.png" alt="drawing" align="left" width="30" style="padding-right:70px;" />
+<img src="./logos/cpp.png" alt="drawing" align="left" width="30" style="padding-right:70px;" />
+<img src="./logos/bash.png" align="left" alt="drawing" width="30" style="padding-right:70px;" />
+<img src="./logos/tux.png" align="left" alt="drawing" width="30" style="padding-right:70px;" />
 
 
 <br>
