@@ -1,9 +1,8 @@
 # 🗿 AinTEAsports
 
 <p align="left">
-Hello, I'm AinTea and I'm a neophyte developer.
-Average <b>Bash</b> enjoyer and trying to become some kind of cyber-expert.<br>
-I'm learning Python and C++ in order to have as much tools at my belt as Mr. Sin- I mean as any plumber has.
+Average <b>Bash</b> enjoyer and trying to become some kind of shitpost-expert.<br>
+I'm learning Python and C++ in order to have as much tools at my belt as Johnny Sin- I mean as any plumber has.
 Also I like doing shitty stuff that half-works with anything I see probably because I have 7 IQ at my maximum potential.
 <br>
 <br>
