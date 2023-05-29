@@ -2,7 +2,7 @@
 
 <p align="left">
 Average Bash enjoyer and trying to become some kind of shitpost-expert.<br>
-I'm learning Python and Rust in order to have as much tools at my belt as Johnny Sin- I mean as any plumber would have.<br>
+I'm learning Python and Rust in order to have as many tools at my belt as Johnny Sin- I mean as any plumber would have.<br>
 Also I like doing shitty stuff that half-works with anything I see probably because I have 7 IQ at my maximum potential.
 <br>
 <br>
